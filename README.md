@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shu6hamPrasad
-- 👀 I’m interested in Python, AI, ML and Java
+- 👀 I’m interested in Python, AI, ML, Java & C++
 - 🌱 I’m currently learning Java
 - 📫 Email: minecraft17072006@gmail.com
